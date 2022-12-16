@@ -1,0 +1,307 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Roboto;
+}
+#wrapper{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.wrapperheadtop h3{
+    padding-left: 30px ;
+}
+.wrapperheadtop h3 span{
+    color: blue;
+}
+.wrapperright ul{
+    display: flex;
+    text-align: center;
+    border-right: 1px solid black;
+    padding-left: 17rem;
+}
+.wrapperright ul li{
+    list-style: none;
+    padding: 10px;
+}
+.wrapperright ul li a{
+    text-decoration: none;
+    color:black;
+}
+.sign{
+    border: 1px solid black;
+    border-radius: 20px;
+}
+.wrapperright1 a{
+    text-decoration: none;
+     padding: 10px;
+     color: black;   
+}
+#wrappersec{
+    display: flex;
+}
+.wrappersection .hh{
+    padding: 40px 0;
+}
+.wrappersection{
+    padding-left: 100px;
+}
+.wrappersection .input{
+    padding: 25px;
+    margin: 10px;
+    width: 300px;
+    text-align: center;
+}
+.sectionbottom img{
+    width: 90%;
+}
+.sectionbottom{
+    padding: 100px 0 0 200px;
+}
+.wrappersection a{
+    text-decoration: none;
+    padding-left: 10px;
+    font-size: large;
+}
+.wrappersection span{
+    color: black;
+}
+#sectionbetween{
+    display: flex;
+    justify-content:space-between;
+    background-color: darkgray;
+    padding: 3rem 8rem;
+}
+#sectionbetween .hhh{
+    font-size: 30px;
+}
+.hhh{
+    width: 40%;
+}
+.cont ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.cont{
+    width: 40%;
+}
+.cont h3{
+    padding: 20px 20px;
+}
+.cont ul li{
+    list-style: none;
+    padding: 10px;
+    font-size: 20px;
+    border: 1px solid black;
+    border-radius: 30px;
+    margin: 2px;
+}
+.cont a{
+    text-decoration: none;
+}
+.cont a span{
+    color: white;
+}
+.ab{
+    background-color: mediumblue;
+}
+#wrapper24{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 70vh;
+    padding: 2rem 8rem;
+}
+.betweenhead{
+    font-size: 30px;
+    width: 40%;
+}
+.betweenbottom{
+    width: 40%;
+}
+.betweenbottom ul{
+    display: flex;
+    flex-wrap: wrap;
+    width: 550px;
+}
+.betweenbottom h3{
+    padding:75px 0 0 75px 
+}
+.betweenbottom ul li{
+    list-style: none;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+    font-size: 20px;
+
+}
+.betweenbottom ul li a{
+    text-decoration: none;
+    color: black;
+}
+#system{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 4rem 8rem ;
+}
+.system1{
+    width: 40%;
+    font-size: 20px;
+
+}
+.system1 h1{
+    padding-right: 200px;
+}
+.system1 span{
+    color: red;
+}
+.system2{
+    padding-right: 26rem;
+    font-size: 30px;
+}
+.system2 a{
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 30px;
+    padding: 10px;
+}
+#space{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.spacehead span{
+    color: brown;
+}
+.spacehead{
+    width: 40%;
+    padding-left: 130px;
+    font-size: 25px;
+}
+.spacebet{
+    position: relative;
+}
+.spacebet img{
+    width: 50%;
+    padding:50px 0px 0px 120px;
+}
+.spaceright{
+    display: flex;
+    position: absolute;
+    top: 0px;
+    right: 200px;
+}
+.spaceright p{
+    padding: 30px;
+}
+#box{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100vh;
+}
+.box1, .box2{
+    width: 50%;
+}
+.box1 img{
+    width: 50%;
+    padding: 70px 0px 0px 150px ;
+}
+.petty h1{
+    padding:150px 0px 0px 150px;
+}
+.box2 img{
+    width: 60%;
+    padding-right: 250px;
+}
+.set h1{
+    padding-top: 150px;
+}
+.bet1{
+    padding-left: 200px;
+}
+.bet1 input{
+    height: 50px;
+}
+.bet2 input{
+    height: 50px;
+}
+.bet1 input{
+    width: 200px;
+    text-align: center;
+}
+.bet2 input{
+    width: 200px;
+    text-align: center;
+}
+#met{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height:100vh;
+}
+.square{
+    padding-left: 50px;
+}
+.disc span{
+    color: brown;
+}
+.disc{
+    font-size: 20px;
+    padding-left: 70px;
+}
+.disc p{
+    font-size: 40px;
+}
+.six h1{
+    font-size: 50px;
+}
+.imagin{
+    height: 100vh;
+}
+.six{
+    background: url(/Image/Linkedin5.png)no-repeat scroll center / cover;
+    height: 700px;
+}
+.six h1{
+    padding:100px 0px 0px 50px;
+}
+.six a{
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 30px ;
+    background-color: blue;
+}
+.as{
+    margin: 50px 0px 0px 50px;
+    font-size: 25px;   
+}
+.as span{
+    color: white;
+    padding: 10px;
+}
+#servicetap{
+    display: flex;
+    justify-content: space-around;
+    height: 500px;
+}
+.boot{
+    margin-top: 150px; 
+}
+.boot span{
+    color: blue;
+}
+.boot h1{
+    font-size: 20px;
+}
+.boot ul li{
+    list-style: none;
+    text-align: left;
+    font-size: 15px;
+}
+
+
